@@ -9,6 +9,7 @@ namespace Game1
     class BasicModel
     {
         // test commit
+        //test commit 2
         public Model model { get; protected set; }
        public Matrix world = Matrix.Identity;
         public BasicModel(Model model) {
